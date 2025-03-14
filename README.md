@@ -20,6 +20,7 @@ npm create vite@latest
 ```bash 
 cd myapp
 npm install
+npm install react-router-dom
 npm run dev
 ```
 이렇게 생성된거에서 src\App.jsx가 코드 입력창임 
@@ -61,3 +62,5 @@ export default App;
 ### Chrome 툴
 
 React Developer Tools 사용
+
+개발자 페이지(F12)에서 컴포넌트별로 확인 가능함
